@@ -6,35 +6,14 @@ encoder and decoder and some other related info.
 """
 import os
 import pickle
-import requests
 import numpy as np
-import replacer
-import sys
 import argparse
 
 # download the sherlock_holmes dataset and place it here.
 # TODO: Use kaggle API to download dataset if not present.
 story_path = os.path.join(os.path.dirname(__file__), 'sherlock_holmes_stories/')
 
-def format_all_stories(story_path):
-    for _, _, files in os.walk(story_path):
-        files_to_read = files
-
-        for file in files_to_read:
-            stories_txt = ""
-            with open(story_path+file, 'r') as f:
-                stories_txt = str(f.read())
-
-            stories_txt = str(replacer.replace_characters(stories_txt))
-
-            with open(story_path+file, 'w') as f:
-                f.write(stories_txt)
-
-            # print(stories_txt)
-
-    return stories_txt
-
-def read_all_stories(story_path, num_to_read=-1):
+def read_stories(story_path, num_to_read=-1):
     stories_txt = ""
     for _, _, files in os.walk(story_path):
         files_to_read = files
@@ -54,22 +33,16 @@ def read_all_stories(story_path, num_to_read=-1):
 parser = argparse.ArgumentParser()
 
 parser.add_argument('--num_files', type=int, default=-1, help='Number of stories to be used for dataset')
-parser.add_argument('--format_dataset', type=bool, default=False, help='Whether to format sherlock holmes dataset')
 
 # Parse the command line arguments
 args = parser.parse_args()
 
 # Access the values of the parsed arguments
 num_stories = args.num_files
-format_dataset = args.format_dataset
 
-if format_dataset:
-    format_all_stories(story_path)
-    print("Formatting dataset completed.")
-
-data = read_all_stories(story_path, num_stories)
+data = read_stories(story_path, num_stories)
 # data = replacer.replace_characters(data)
-print(f"length of dataset in characters: {len(data):,}")
+print(f"length of dataset in characters: {len(data)}")
 
 # get all the unique characters that occur in this text
 chars = sorted(list(set(data)))
@@ -110,6 +83,8 @@ meta = {
 }
 with open(os.path.join(os.path.dirname(__file__), 'meta.pkl'), 'wb') as f:
     pickle.dump(meta, f)
+
+# Original output without any format.
 
 # length of dataset in characters: 13,821,242
 # all the unique characters: 
