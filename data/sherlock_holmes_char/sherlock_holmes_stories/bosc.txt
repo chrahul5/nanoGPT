@@ -12,23 +12,23 @@
      brought in a telegram. It was from Sherlock Holmes and ran in this
      way:
 
-     $Have you a couple of days to spare? Have just been wired for from
+     "Have you a couple of days to spare? Have just been wired for from
      the west of England in connection with Boscombe Valley tragedy. Shall
      be glad if you will come with me. Air and scenery perfect. Leave
-     Paddington by the   .  .$
-     $What do you say, dear?$ said my wife, looking across at me. $Will
-     you go?$ 
+     Paddington by the 11.15."
+     "What do you say, dear?" said my wife, looking across at me. "Will
+     you go?" 
 
-     $I really don't know what to say. I have a fairly long list at
-     present.$
+     "I really don't know what to say. I have a fairly long list at
+     present."
 
-     $Oh, Anstruther would do your work for you. You have been looking a
+     "Oh, Anstruther would do your work for you. You have been looking a
      little pale lately. I think that the change would do you good, and
-     you are always so interested in Mr. Sherlock Holmes' cases.$
+     you are always so interested in Mr. Sherlock Holmes' cases."
 
-     $I should be ungrateful if I were not, seeing what I gained through
-     one of them,$ I answered. $But if I am to go, I must pack at once,
-     for I have only half an hour.$
+     "I should be ungrateful if I were not, seeing what I gained through
+     one of them," I answered. "But if I am to go, I must pack at once,
+     for I have only half an hour."
 
      My experience of camp life in Afghanistan had at least had the effect
      of making me a prompt and ready traveller. My wants were few and
@@ -38,11 +38,11 @@
      gaunter and taller by his long grey travelling-cloak and
      close-fitting cloth cap.
 
-     $It is really very good of you to come, Watson,$ said he. $It makes a
+     "It is really very good of you to come, Watson," said he. "It makes a
      considerable difference to me, having someone with me on whom I can
      thoroughly rely. Local aid is always either worthless or else
      biassed. If you will keep the two corner seats I shall get the
-     tickets.$
+     tickets."
 
      We had the carriage to ourselves save for an immense litter of papers
      which Holmes had brought with him. Among these he rummaged and read,
@@ -50,30 +50,30 @@
      Reading. Then he suddenly rolled them all into a gigantic ball and
      tossed them up onto the rack.
 
-     $Have you heard anything of the case?$ he asked.
+     "Have you heard anything of the case?" he asked.
 
-     $Not a word. I have not seen a paper for some days.$
+     "Not a word. I have not seen a paper for some days."
 
-     $The London press has not had very full accounts. I have just been
+     "The London press has not had very full accounts. I have just been
      looking through all the recent papers in order to master the
      particulars. It seems, from what I gather, to be one of those simple
-     cases which are so extremely difficult.$
+     cases which are so extremely difficult."
 
-     $That sounds a little paradoxical.$
+     "That sounds a little paradoxical."
 
-     $But it is profoundly true. Singularity is almost invariably a clue.
+     "But it is profoundly true. Singularity is almost invariably a clue.
      The more featureless and commonplace a crime is, the more difficult
      it is to bring it home. In this case, however, they have established
-     a very serious case against the son of the murdered man.$
+     a very serious case against the son of the murdered man."
 
-     $It is a murder, then?$
+     "It is a murder, then?"
 
-     $Well, it is conjectured to be so. I shall take nothing for granted
+     "Well, it is conjectured to be so. I shall take nothing for granted
      until I have the opportunity of looking personally into it. I will
      explain the state of things to you, as far as I have been able to
      understand it, in a very few words.
 
-     $Boscombe Valley is a country district not very far from Ross, in
+     "Boscombe Valley is a country district not very far from Ross, in
      Herefordshire. The largest landed proprietor in that part is a Mr.
      John Turner, who made his money in Australia and returned some years
      ago to the old country. One of the farms which he held, that of
@@ -93,7 +93,7 @@
      That is as much as I have been able to gather about the families. Now
      for the facts.
 
-     $On June 3rd, that is, on Monday last, McCarthy left his house at
+     "On June 3rd, that is, on Monday last, McCarthy left his house at
      Hatherley about three in the afternoon and walked down to the
      Boscombe Pool, which is a small lake formed by the spreading out of
      the stream which runs down the Boscombe Valley. He had been out with
@@ -101,7 +101,7 @@
      he must hurry, as he had an appointment of importance to keep at
      three. From that appointment he never came back alive.
 
-     $From Hatherley Farm-house to the Boscombe Pool is a quarter of a
+     "From Hatherley Farm-house to the Boscombe Pool is a quarter of a
      mile, and two people saw him as he passed over this ground. One was
      an old woman, whose name is not mentioned, and the other was William
      Crowder, a game-keeper in the employ of Mr. Turner. Both these
@@ -113,7 +113,7 @@
      matter until he heard in the evening of the tragedy that had
      occurred.
 
-     $The two McCarthys were seen after the time when William Crowder, the
+     "The two McCarthys were seen after the time when William Crowder, the
      game-keeper, lost sight of them. The Boscombe Pool is thickly wooded
      round, with just a fringe of grass and of reeds round the edge. A
      girl of fourteen, Patience Moran, who is the daughter of the
@@ -140,13 +140,13 @@
      murder' having been returned at the inquest on Tuesday, he was on
      Wednesday brought before the magistrates at Ross, who have referred
      the case to the next Assizes. Those are the main facts of the case as
-     they came out before the coroner and the police-court.$
+     they came out before the coroner and the police-court."
 
-     $I could hardly imagine a more damning case,$ I remarked. $If ever
-     circumstantial evidence pointed to a criminal it does so here.$
+     "I could hardly imagine a more damning case," I remarked. "If ever
+     circumstantial evidence pointed to a criminal it does so here."
 
-     $Circumstantial evidence is a very tricky thing,$ answered Holmes
-     thoughtfully. $It may seem to point very straight to one thing, but
+     "Circumstantial evidence is a very tricky thing," answered Holmes
+     thoughtfully. "It may seem to point very straight to one thing, but
      if you shift your own point of view a little, you may find it
      pointing in an equally uncompromising manner to something entirely
      different. It must be confessed, however, that the case looks
@@ -158,24 +158,24 @@
      Study in Scarlet, to work out the case in his interest. Lestrade,
      being rather puzzled, has referred the case to me, and hence it is
      that two middle-aged gentlemen are flying westward at fifty miles an
-     hour instead of quietly digesting their breakfasts at home.$
+     hour instead of quietly digesting their breakfasts at home."
 
-     $I am afraid,$ said I, $that the facts are so obvious that you will
-     find little credit to be gained out of this case.$
+     "I am afraid," said I, "that the facts are so obvious that you will
+     find little credit to be gained out of this case."
 
-     $There is nothing more deceptive than an obvious fact,$ he answered,
-     laughing. $Besides, we may chance to hit upon some other obvious
+     "There is nothing more deceptive than an obvious fact," he answered,
+     laughing. "Besides, we may chance to hit upon some other obvious
      facts which may have been by no means obvious to Mr. Lestrade. You
      know me too well to think that I am boasting when I say that I shall
      either confirm or destroy his theory by means which he is quite
      incapable of employing, or even of understanding. To take the first
      example to hand, I very clearly perceive that in your bedroom the
      window is upon the right-hand side, and yet I question whether Mr.
-     Lestrade would have noted even so self-evident a thing as that.$
+     Lestrade would have noted even so self-evident a thing as that."
 
-     $How on earth--$
+     "How on earth--"
 
-     $My dear fellow, I know you well. I know the military neatness which
+     "My dear fellow, I know you well. I know the military neatness which
      characterises you. You shave every morning, and in this season you
      shave by the sunlight; but since your shaving is less and less
      complete as we get farther back on the left side, until it becomes
@@ -184,28 +184,28 @@
      I could not imagine a man of your habits looking at himself in an
      equal light and being satisfied with such a result. I only quote this
      as a trivial example of observation and inference. Therein lies my
-     metier, and it is just possible that it may be of some service in the
+     métier, and it is just possible that it may be of some service in the
      investigation which lies before us. There are one or two minor points
      which were brought out in the inquest, and which are worth
-     considering.$
+     considering."
 
-     $What are they?$
+     "What are they?"
 
-     $It appears that his arrest did not take place at once, but after the
+     "It appears that his arrest did not take place at once, but after the
      return to Hatherley Farm. On the inspector of constabulary informing
      him that he was a prisoner, he remarked that he was not surprised to
      hear it, and that it was no more than his deserts. This observation
      of his had the natural effect of removing any traces of doubt which
-     might have remained in the minds of the coroner's jury.$
+     might have remained in the minds of the coroner's jury."
 
-     $It was a confession,$ I ejaculated.
+     "It was a confession," I ejaculated.
 
-     $No, for it was followed by a protestation of innocence.$
+     "No, for it was followed by a protestation of innocence."
 
-     $Coming on the top of such a damning series of events, it was at
-     least a most suspicious remark.$
+     "Coming on the top of such a damning series of events, it was at
+     least a most suspicious remark."
 
-     $On the contrary,$ said Holmes, $it is the brightest rift which I can
+     "On the contrary," said Holmes, "it is the brightest rift which I can
      at present see in the clouds. However innocent he might be, he could
      not be such an absolute imbecile as not to see that the circumstances
      were very black against him. Had he appeared surprised at his own
@@ -221,18 +221,18 @@
      even, according to the little girl whose evidence is so important, to
      raise his hand as if to strike him. The self-reproach and contrition
      which are displayed in his remark appear to me to be the signs of a
-     healthy mind rather than of a guilty one.$
+     healthy mind rather than of a guilty one."
 
-     I shook my head. $Many men have been hanged on far slighter
-     evidence,$ I remarked.
+     I shook my head. "Many men have been hanged on far slighter
+     evidence," I remarked.
 
-     $So they have. And many men have been wrongfully hanged.$
+     "So they have. And many men have been wrongfully hanged."
 
-     $What is the young man's own account of the matter?$
+     "What is the young man's own account of the matter?"
 
-     $It is, I am afraid, not very encouraging to his supporters, though
+     "It is, I am afraid, not very encouraging to his supporters, though
      there are one or two points in it which are suggestive. You will find
-     it here, and may read it for yourself.$
+     it here, and may read it for yourself."
 
      He picked out from his bundle a copy of the local Herefordshire
      paper, and having turned down the sheet he pointed out the paragraph
@@ -240,7 +240,7 @@
      what had occurred. I settled myself down in the corner of the
      carriage and read it very carefully. It ran in this way:
 
-     $Mr. James McCarthy, the only son of the deceased, was then called
+     "Mr. James McCarthy, the only son of the deceased, was then called
      and gave evidence as follows: 'I had been away from home for three
      days at Bristol, and had only just returned upon the morning of last
      Monday, the 3rd. My father was absent from home at the time of my
@@ -254,14 +254,14 @@
      William Crowder, the game-keeper, as he had stated in his evidence;
      but he is mistaken in thinking that I was following my father. I had
      no idea that he was in front of me. When about a hundred yards from
-     the pool I heard a cry of $Cooee!$ which was a usual signal between
+     the pool I heard a cry of "Cooee!" which was a usual signal between
      my father and myself. I then hurried forward, and found him standing
      by the pool. He appeared to be much surprised at seeing me and asked
      me rather roughly what I was doing there. A conversation ensued which
      led to high words and almost to blows, for my father was a man of a
      very violent temper. Seeing that his passion was becoming
      ungovernable, I left him and returned towards Hatherley Farm. I had
-     not gone more than     yards, however, when I heard a hideous outcry
+     not gone more than 150 yards, however, when I heard a hideous outcry
      behind me, which caused me to run back again. I found my father
      expiring upon the ground, with his head terribly injured. I dropped
      my gun and held him in my arms, but he almost instantly expired. I
@@ -271,75 +271,75 @@
      no idea how he came by his injuries. He was not a popular man, being
      somewhat cold and forbidding in his manners, but he had, as far as I
      know, no active enemies. I know nothing further of the matter.'
-     $The Coroner: Did your father make any statement to you before he
+     "The Coroner: Did your father make any statement to you before he
      died?
-     $Witness: He mumbled a few words, but I could only catch some
+     "Witness: He mumbled a few words, but I could only catch some
      allusion to a rat.
-     $The Coroner: What did you understand by that?
-     $Witness: It conveyed no meaning to me. I thought that he was
+     "The Coroner: What did you understand by that?
+     "Witness: It conveyed no meaning to me. I thought that he was
      delirious.
-     $The Coroner: What was the point upon which you and your father had
+     "The Coroner: What was the point upon which you and your father had
      this final quarrel?
-     $Witness: I should prefer not to answer.
-     $The Coroner: I am afraid that I must press it.
-     $Witness: It is really impossible for me to tell you. I can assure
+     "Witness: I should prefer not to answer.
+     "The Coroner: I am afraid that I must press it.
+     "Witness: It is really impossible for me to tell you. I can assure
      you that it has nothing to do with the sad tragedy which followed.
-     $The Coroner: That is for the court to decide. I need not point out
+     "The Coroner: That is for the court to decide. I need not point out
      to you that your refusal to answer will prejudice your case
      considerably in any future proceedings which may arise.
-     $Witness: I must still refuse.
-     $The Coroner: I understand that the cry of 'Cooee' was a common
+     "Witness: I must still refuse.
+     "The Coroner: I understand that the cry of 'Cooee' was a common
      signal between you and your father?
-     $Witness: It was.
-     $The Coroner: How was it, then, that he uttered it before he saw you,
+     "Witness: It was.
+     "The Coroner: How was it, then, that he uttered it before he saw you,
      and before he even knew that you had returned from Bristol?
-     $Witness  with considerable confusion : I do not know.
-     $A Juryman: Did you see nothing which aroused your suspicions when
+     "Witness (with considerable confusion): I do not know.
+     "A Juryman: Did you see nothing which aroused your suspicions when
      you returned on hearing the cry and found your father fatally
      injured?
-     $Witness: Nothing definite.
-     $The Coroner: What do you mean?
-     $Witness: I was so disturbed and excited as I rushed out into the
+     "Witness: Nothing definite.
+     "The Coroner: What do you mean?
+     "Witness: I was so disturbed and excited as I rushed out into the
      open, that I could think of nothing except of my father. Yet I have a
      vague impression that as I ran forward something lay upon the ground
      to the left of me. It seemed to me to be something grey in colour, a
      coat of some sort, or a plaid perhaps. When I rose from my father I
      looked round for it, but it was gone.
-     $'Do you mean that it disappeared before you went for help?'
-     $'Yes, it was gone.'
-     $'You cannot say what it was?'
-     $'No, I had a feeling something was there.'
-     $'How far from the body?'
-     $'A dozen yards or so.'
-     $'And how far from the edge of the wood?'
-     $'About the same.'
-     $'Then if it was removed it was while you were within a dozen yards
+     "'Do you mean that it disappeared before you went for help?'
+     "'Yes, it was gone.'
+     "'You cannot say what it was?'
+     "'No, I had a feeling something was there.'
+     "'How far from the body?'
+     "'A dozen yards or so.'
+     "'And how far from the edge of the wood?'
+     "'About the same.'
+     "'Then if it was removed it was while you were within a dozen yards
      of it?'
-     $'Yes, but with my back towards it.'
-     $This concluded the examination of the witness.$
+     "'Yes, but with my back towards it.'
+     "This concluded the examination of the witness."
 
-     $I see,$ said I as I glanced down the column, $that the coroner in
+     "I see," said I as I glanced down the column, "that the coroner in
      his concluding remarks was rather severe upon young McCarthy. He
      calls attention, and with reason, to the discrepancy about his father
      having signalled to him before seeing him, also to his refusal to
      give details of his conversation with his father, and his singular
      account of his father's dying words. They are all, as he remarks,
-     very much against the son.$
+     very much against the son."
 
      Holmes laughed softly to himself and stretched himself out upon the
-     cushioned seat. $Both you and the coroner have been at some pains,$
-     said he, $to single out the very strongest points in the young man's
+     cushioned seat. "Both you and the coroner have been at some pains,"
+     said he, "to single out the very strongest points in the young man's
      favour. Don't you see that you alternately give him credit for having
      too much imagination and too little? Too little, if he could not
      invent a cause of quarrel which would give him the sympathy of the
      jury; too much, if he evolved from his own inner consciousness
-     anything so outre as a dying reference to a rat, and the incident of
+     anything so outré as a dying reference to a rat, and the incident of
      the vanishing cloth. No, sir, I shall approach this case from the
      point of view that what this young man says is true, and we shall see
      whither that hypothesis will lead us. And now here is my pocket
      Petrarch, and not another word shall I say of this case until we are
      on the scene of action. We lunch at Swindon, and I see that we shall
-     be there in twenty minutes.$
+     be there in twenty minutes."
 
      It was nearly four o'clock when we at last, after passing through the
      beautiful Stroud Valley, and over the broad gleaming Severn, found
@@ -351,29 +351,29 @@
      drove to the Hereford Arms where a room had already been engaged for
      us.
 
-     $I have ordered a carriage,$ said Lestrade as we sat over a cup of
-     tea. $I knew your energetic nature, and that you would not be happy
-     until you had been on the scene of the crime.$
+     "I have ordered a carriage," said Lestrade as we sat over a cup of
+     tea. "I knew your energetic nature, and that you would not be happy
+     until you had been on the scene of the crime."
 
-     $It was very nice and complimentary of you,$ Holmes answered. $It is
-     entirely a question of barometric pressure.$
+     "It was very nice and complimentary of you," Holmes answered. "It is
+     entirely a question of barometric pressure."
 
-     Lestrade looked startled. $I do not quite follow,$ he said.
+     Lestrade looked startled. "I do not quite follow," he said.
 
-     $How is the glass? Twenty-nine, I see. No wind, and not a cloud in
+     "How is the glass? Twenty-nine, I see. No wind, and not a cloud in
      the sky. I have a caseful of cigarettes here which need smoking, and
      the sofa is very much superior to the usual country hotel
      abomination. I do not think that it is probable that I shall use the
-     carriage to-night.$
+     carriage to-night."
 
-     Lestrade laughed indulgently. $You have, no doubt, already formed
-     your conclusions from the newspapers,$ he said. $The case is as plain
+     Lestrade laughed indulgently. "You have, no doubt, already formed
+     your conclusions from the newspapers," he said. "The case is as plain
      as a pikestaff, and the more one goes into it the plainer it becomes.
      Still, of course, one can't refuse a lady, and such a very positive
      one, too. She has heard of you, and would have your opinion, though I
      repeatedly told her that there was nothing which you could do which I
      had not already done. Why, bless my soul! here is her carriage at the
-     door.$
+     door."
 
      He had hardly spoken before there rushed into the room one of the
      most lovely young women that I have ever seen in my life. Her violet
@@ -381,103 +381,103 @@
      thought of her natural reserve lost in her overpowering excitement
      and concern.
 
-     $Oh, Mr. Sherlock Holmes!$ she cried, glancing from one to the other
+     "Oh, Mr. Sherlock Holmes!" she cried, glancing from one to the other
      of us, and finally, with a woman's quick intuition, fastening upon my
-     companion, $I am so glad that you have come. I have driven down to
+     companion, "I am so glad that you have come. I have driven down to
      tell you so. I know that James didn't do it. I know it, and I want
      you to start upon your work knowing it, too. Never let yourself doubt
      upon that point. We have known each other since we were little
      children, and I know his faults as no one else does; but he is too
      tender-hearted to hurt a fly. Such a charge is absurd to anyone who
-     really knows him.$
+     really knows him."
 
-     $I hope we may clear him, Miss Turner,$ said Sherlock Holmes.  $You
-     may rely upon my doing all that I can.$
+     "I hope we may clear him, Miss Turner," said Sherlock Holmes.  "You
+     may rely upon my doing all that I can."
 
-     $But you have read the evidence. You have formed some conclusion? Do
+     "But you have read the evidence. You have formed some conclusion? Do
      you not see some loophole, some flaw? Do you not yourself think that
-     he is innocent?$
+     he is innocent?"
 
-     $I think that it is very probable.$
+     "I think that it is very probable."
 
-     $There, now!$ she cried, throwing back her head and looking defiantly
-     at Lestrade. $You hear! He gives me hopes.$
+     "There, now!" she cried, throwing back her head and looking defiantly
+     at Lestrade. "You hear! He gives me hopes."
 
-     Lestrade shrugged his shoulders. $I am afraid that my colleague has
-     been a little quick in forming his conclusions,$ he said.
+     Lestrade shrugged his shoulders. "I am afraid that my colleague has
+     been a little quick in forming his conclusions," he said.
 
-     $But he is right. Oh! I know that he is right. James never did it.
+     "But he is right. Oh! I know that he is right. James never did it.
      And about his quarrel with his father, I am sure that the reason why
      he would not speak about it to the coroner was because I was
-     concerned in it.$
+     concerned in it."
 
-     $In what way?$ asked Holmes.
+     "In what way?" asked Holmes.
 
-     $It is no time for me to hide anything. James and his father had many
+     "It is no time for me to hide anything. James and his father had many
      disagreements about me. Mr. McCarthy was very anxious that there
      should be a marriage between us. James and I have always loved each
      other as brother and sister; but of course he is young and has seen
      very little of life yet, and--and--well, he naturally did not wish to
      do anything like that yet. So there were quarrels, and this, I am
-     sure, was one of them.$
+     sure, was one of them."
 
-     $And your father?$ asked Holmes. $Was he in favour of such a union?$
+     "And your father?" asked Holmes. "Was he in favour of such a union?"
 
-     $No, he was averse to it also. No one but Mr. McCarthy was in favour
-     of it.$ A quick blush passed over her fresh young face as Holmes shot
+     "No, he was averse to it also. No one but Mr. McCarthy was in favour
+     of it." A quick blush passed over her fresh young face as Holmes shot
      one of his keen, questioning glances at her.
 
-     $Thank you for this information,$ said he. $May I see your father if
-     I call to-morrow?$
+     "Thank you for this information," said he. "May I see your father if
+     I call to-morrow?"
 
-     $I am afraid the doctor won't allow it.$
+     "I am afraid the doctor won't allow it."
 
-     $The doctor?$
+     "The doctor?"
 
-     $Yes, have you not heard? Poor father has never been strong for years
+     "Yes, have you not heard? Poor father has never been strong for years
      back, but this has broken him down completely. He has taken to his
      bed, and Dr. Willows says that he is a wreck and that his nervous
      system is shattered. Mr. McCarthy was the only man alive who had
-     known dad in the old days in Victoria.$
+     known dad in the old days in Victoria."
 
-     $Ha! In Victoria! That is important.$
+     "Ha! In Victoria! That is important."
 
-     $Yes, at the mines.$
+     "Yes, at the mines."
 
-     $Quite so; at the gold-mines, where, as I understand, Mr. Turner made
-     his money.$
+     "Quite so; at the gold-mines, where, as I understand, Mr. Turner made
+     his money."
 
-     $Yes, certainly.$
+     "Yes, certainly."
 
-     $Thank you, Miss Turner. You have been of material assistance to me.$
+     "Thank you, Miss Turner. You have been of material assistance to me."
 
-     $You will tell me if you have any news to-morrow. No doubt you will
+     "You will tell me if you have any news to-morrow. No doubt you will
      go to the prison to see James. Oh, if you do, Mr. Holmes, do tell him
-     that I know him to be innocent.$
+     that I know him to be innocent."
 
-     $I will, Miss Turner.$
+     "I will, Miss Turner."
 
-     $I must go home now, for dad is very ill, and he misses me so if I
-     leave him. Good-bye, and God help you in your undertaking.$ She
+     "I must go home now, for dad is very ill, and he misses me so if I
+     leave him. Good-bye, and God help you in your undertaking." She
      hurried from the room as impulsively as she had entered, and we heard
      the wheels of her carriage rattle off down the street.
 
-     $I am ashamed of you, Holmes,$ said Lestrade with dignity after a few
-     minutes' silence. $Why should you raise up hopes which you are bound
-     to disappoint? I am not over-tender of heart, but I call it cruel.$
+     "I am ashamed of you, Holmes," said Lestrade with dignity after a few
+     minutes' silence. "Why should you raise up hopes which you are bound
+     to disappoint? I am not over-tender of heart, but I call it cruel."
 
-     $I think that I see my way to clearing James McCarthy,$ said Holmes.
-     $Have you an order to see him in prison?$
+     "I think that I see my way to clearing James McCarthy," said Holmes.
+     "Have you an order to see him in prison?"
 
-     $Yes, but only for you and me.$
+     "Yes, but only for you and me."
 
-     $Then I shall reconsider my resolution about going out. We have still
-     time to take a train to Hereford and see him to-night?$
+     "Then I shall reconsider my resolution about going out. We have still
+     time to take a train to Hereford and see him to-night?"
 
-     $Ample.$
+     "Ample."
 
-     $Then let us do so. Watson, I fear that you will find it very slow,
-     but I shall only be away a couple of hours.$
+     "Then let us do so. Watson, I fear that you will find it very slow,
+     but I shall only be away a couple of hours."
 
      I walked down to the station with them, and then wandered through the
      streets of the little town, finally returning to the hotel, where I
@@ -521,28 +521,28 @@
      It was late before Sherlock Holmes returned. He came back alone, for
      Lestrade was staying in lodgings in the town.
 
-     $The glass still keeps very high,$ he remarked as he sat down. $It is
+     "The glass still keeps very high," he remarked as he sat down. "It is
      of importance that it should not rain before we are able to go over
      the ground. On the other hand, a man should be at his very best and
      keenest for such nice work as that, and I did not wish to do it when
-     fagged by a long journey. I have seen young McCarthy.$
+     fagged by a long journey. I have seen young McCarthy."
 
-     $And what did you learn from him?$
+     "And what did you learn from him?"
 
-     $Nothing.$
+     "Nothing."
 
-     $Could he throw no light?$
+     "Could he throw no light?"
 
-     $None at all. I was inclined to think at one time that he knew who
+     "None at all. I was inclined to think at one time that he knew who
      had done it and was screening him or her, but I am convinced now that
      he is as puzzled as everyone else. He is not a very quick-witted
-     youth, though comely to look at and, I should think, sound at heart.$
+     youth, though comely to look at and, I should think, sound at heart."
 
-     $I cannot admire his taste,$ I remarked, $if it is indeed a fact that
+     "I cannot admire his taste," I remarked, "if it is indeed a fact that
      he was averse to a marriage with so charming a young lady as this
-     Miss Turner.$
+     Miss Turner."
 
-     $Ah, thereby hangs a rather painful tale. This fellow is madly,
+     "Ah, thereby hangs a rather painful tale. This fellow is madly,
      insanely, in love with her, but some two years ago, when he was only
      a lad, and before he really knew her, for she had been away five
      years at a boarding-school, what does the idiot do but get into the
@@ -562,69 +562,69 @@
      likely to be hanged, has thrown him over utterly and has written to
      him to say that she has a husband already in the Bermuda Dockyard, so
      that there is really no tie between them. I think that that bit of
-     news has consoled young McCarthy for all that he has suffered.$
+     news has consoled young McCarthy for all that he has suffered."
 
-     $But if he is innocent, who has done it?$
+     "But if he is innocent, who has done it?"
 
-     $Ah! who? I would call your attention very particularly to two
+     "Ah! who? I would call your attention very particularly to two
      points. One is that the murdered man had an appointment with someone
      at the pool, and that the someone could not have been his son, for
      his son was away, and he did not know when he would return. The
      second is that the murdered man was heard to cry 'Cooee!' before he
      knew that his son had returned. Those are the crucial points upon
      which the case depends. And now let us talk about George Meredith, if
-     you please, and we shall leave all minor matters until to-morrow.$
+     you please, and we shall leave all minor matters until to-morrow."
 
      There was no rain, as Holmes had foretold, and the morning broke
      bright and cloudless. At nine o'clock Lestrade called for us with the
      carriage, and we set off for Hatherley Farm and the Boscombe Pool.
 
-     $There is serious news this morning,$ Lestrade observed. $It is said
+     "There is serious news this morning," Lestrade observed. "It is said
      that Mr. Turner, of the Hall, is so ill that his life is despaired
-     of.$
+     of."
 
-     $An elderly man, I presume?$ said Holmes.
+     "An elderly man, I presume?" said Holmes.
 
-     $About sixty; but his constitution has been shattered by his life
+     "About sixty; but his constitution has been shattered by his life
      abroad, and he has been in failing health for some time. This
      business has had a very bad effect upon him. He was an old friend of
      McCarthy's, and, I may add, a great benefactor to him, for I have
-     learned that he gave him Hatherley Farm rent free.$
+     learned that he gave him Hatherley Farm rent free."
 
-     $Indeed! That is interesting,$ said Holmes.
+     "Indeed! That is interesting," said Holmes.
 
-     $Oh, yes! In a hundred other ways he has helped him. Everybody about
-     here speaks of his kindness to him.$
+     "Oh, yes! In a hundred other ways he has helped him. Everybody about
+     here speaks of his kindness to him."
 
-     $Really! Does it not strike you as a little singular that this
+     "Really! Does it not strike you as a little singular that this
      McCarthy, who appears to have had little of his own, and to have been
      under such obligations to Turner, should still talk of marrying his
      son to Turner's daughter, who is, presumably, heiress to the estate,
      and that in such a very cocksure manner, as if it were merely a case
      of a proposal and all else would follow? It is the more strange,
      since we know that Turner himself was averse to the idea. The
-     daughter told us as much. Do you not deduce something from that?$
+     daughter told us as much. Do you not deduce something from that?"
 
-     $We have got to the deductions and the inferences,$ said Lestrade,
-     winking at me. $I find it hard enough to tackle facts, Holmes,
-     without flying away after theories and fancies.$
+     "We have got to the deductions and the inferences," said Lestrade,
+     winking at me. "I find it hard enough to tackle facts, Holmes,
+     without flying away after theories and fancies."
 
-     $You are right,$ said Holmes demurely; $you do find it very hard to
-     tackle the facts.$
+     "You are right," said Holmes demurely; "you do find it very hard to
+     tackle the facts."
 
-     $Anyhow, I have grasped one fact which you seem to find it difficult
-     to get hold of,$ replied Lestrade with some warmth.
+     "Anyhow, I have grasped one fact which you seem to find it difficult
+     to get hold of," replied Lestrade with some warmth.
 
-     $And that is--$
+     "And that is--"
 
-     $That McCarthy senior met his death from McCarthy junior and that all
-     theories to the contrary are the merest moonshine.$
+     "That McCarthy senior met his death from McCarthy junior and that all
+     theories to the contrary are the merest moonshine."
 
-     $Well, moonshine is a brighter thing than fog,$ said Holmes,
-     laughing. $But I am very much mistaken if this is not Hatherley Farm
-     upon the left.$
+     "Well, moonshine is a brighter thing than fog," said Holmes,
+     laughing. "But I am very much mistaken if this is not Hatherley Farm
+     upon the left."
 
-     $Yes, that is it.$ It was a widespread, comfortable-looking building,
+     "Yes, that is it." It was a widespread, comfortable-looking building,
      two-storied, slate-roofed, with great yellow blotches of lichen upon
      the grey walls. The drawn blinds and the smokeless chimneys, however,
      gave it a stricken look, as though the weight of this horror still
@@ -671,20 +671,20 @@
      read upon the trampled grass. He ran round, like a dog who is picking
      up a scent, and then turned upon my companion.
 
-     $What did you go into the pool for?$ he asked.
+     "What did you go into the pool for?" he asked.
 
-     $I fished about with a rake. I thought there might be some weapon or
-     other trace. But how on earth--$
+     "I fished about with a rake. I thought there might be some weapon or
+     other trace. But how on earth--"
 
-     $Oh, tut, tut! I have no time! That left foot of yours with its
+     "Oh, tut, tut! I have no time! That left foot of yours with its
      inward twist is all over the place. A mole could trace it, and there
      it vanishes among the reeds. Oh, how simple it would all have been
      had I been here before they came like a herd of buffalo and wallowed
      all over it. Here is where the party with the lodge-keeper came, and
      they have covered all tracks for six or eight feet round the body.
-     But here are three separate tracks of the same feet.$ He drew out a
+     But here are three separate tracks of the same feet." He drew out a
      lens and lay down upon his waterproof to have a better view, talking
-     all the time rather to himself than to us. $These are young
+     all the time rather to himself than to us. "These are young
      McCarthy's feet. Twice he was walking, and once he ran swiftly, so
      that the soles are deeply marked and the heels hardly visible. That
      bears out his story. He ran when he saw his father on the ground.
@@ -692,7 +692,7 @@
      this, then? It is the butt-end of the gun as the son stood listening.
      And this? Ha, ha! What have we here? Tiptoes! tiptoes! Square, too,
      quite unusual boots! They come, they go, they come again--of course
-     that was for the cloak. Now where did they come from?$ He ran up and
+     that was for the cloak. Now where did they come from?" He ran up and
      down, sometimes losing, sometimes finding the track until we were
      well within the edge of the wood and under the shadow of a great
      beech, the largest tree in the neighbourhood. Holmes traced his way
@@ -705,84 +705,84 @@
      examined and retained. Then he followed a pathway through the wood
      until he came to the highroad, where all traces were lost.
 
-     $It has been a case of considerable interest,$ he remarked, returning
-     to his natural manner. $I fancy that this grey house on the right
+     "It has been a case of considerable interest," he remarked, returning
+     to his natural manner. "I fancy that this grey house on the right
      must be the lodge. I think that I will go in and have a word with
      Moran, and perhaps write a little note. Having done that, we may
      drive back to our luncheon. You may walk to the cab, and I shall be
-     with you presently.$
+     with you presently."
 
      It was about ten minutes before we regained our cab and drove back
      into Ross, Holmes still carrying with him the stone which he had
      picked up in the wood.
 
-     $This may interest you, Lestrade,$ he remarked, holding it out.  $The
-     murder was done with it.$
+     "This may interest you, Lestrade," he remarked, holding it out.  "The
+     murder was done with it."
 
-     $I see no marks.$
+     "I see no marks."
 
-     $There are none.$
+     "There are none."
 
-     $How do you know, then?$
+     "How do you know, then?"
 
-     $The grass was growing under it. It had only lain there a few days.
+     "The grass was growing under it. It had only lain there a few days.
      There was no sign of a place whence it had been taken. It corresponds
-     with the injuries. There is no sign of any other weapon.$
+     with the injuries. There is no sign of any other weapon."
 
-     $And the murderer?$
+     "And the murderer?"
 
-     $Is a tall man, left-handed, limps with the right leg, wears
+     "Is a tall man, left-handed, limps with the right leg, wears
      thick-soled shooting-boots and a grey cloak, smokes Indian cigars,
      uses a cigar-holder, and carries a blunt pen-knife in his pocket.
      There are several other indications, but these may be enough to aid
-     us in our search.$
+     us in our search."
 
-     Lestrade laughed. $I am afraid that I am still a sceptic,$ he said.
-     $Theories are all very well, but we have to deal with a hard-headed
-     British jury.$
+     Lestrade laughed. "I am afraid that I am still a sceptic," he said.
+     "Theories are all very well, but we have to deal with a hard-headed
+     British jury."
 
-     $Nous verrons,$ answered Holmes calmly. $You work your own method,
+     "Nous verrons," answered Holmes calmly. "You work your own method,
      and I shall work mine. I shall be busy this afternoon, and shall
-     probably return to London by the evening train.$
+     probably return to London by the evening train."
 
-     $And leave your case unfinished?$
+     "And leave your case unfinished?"
 
-     $No, finished.$
+     "No, finished."
 
-     $But the mystery?$
+     "But the mystery?"
 
-     $It is solved.$
+     "It is solved."
 
-     $Who was the criminal, then?$
+     "Who was the criminal, then?"
 
-     $The gentleman I describe.$
+     "The gentleman I describe."
 
-     $But who is he?$
+     "But who is he?"
 
-     $Surely it would not be difficult to find out. This is not such a
-     populous neighbourhood.$
+     "Surely it would not be difficult to find out. This is not such a
+     populous neighbourhood."
 
-     Lestrade shrugged his shoulders. $I am a practical man,$ he said,
-     $and I really cannot undertake to go about the country looking for a
+     Lestrade shrugged his shoulders. "I am a practical man," he said,
+     "and I really cannot undertake to go about the country looking for a
      left-handed gentleman with a game leg. I should become the
-     laughing-stock of Scotland Yard.$
+     laughing-stock of Scotland Yard."
 
-     $All right,$ said Holmes quietly. $I have given you the chance. Here
-     are your lodgings. Good-bye. I shall drop you a line before I leave.$
+     "All right," said Holmes quietly. "I have given you the chance. Here
+     are your lodgings. Good-bye. I shall drop you a line before I leave."
 
      Having left Lestrade at his rooms, we drove to our hotel, where we
      found lunch upon the table. Holmes was silent and buried in thought
      with a pained expression upon his face, as one who finds himself in a
      perplexing position.
 
-     $Look here, Watson,$ he said when the cloth was cleared $just sit
+     "Look here, Watson," he said when the cloth was cleared "just sit
      down in this chair and let me preach to you for a little. I don't
      know quite what to do, and I should value your advice. Light a cigar
-     and let me expound.$
+     and let me expound."
 
-     $Pray do so.$
+     "Pray do so."
 
-     $Well, now, in considering this case there are two points about young
+     "Well, now, in considering this case there are two points about young
      McCarthy's narrative which struck us both instantly, although they
      impressed me in his favour and you against him. One was the fact that
      his father should, according to his account, cry 'Cooee!' before
@@ -790,73 +790,73 @@
      mumbled several words, you understand, but that was all that caught
      the son's ear. Now from this double point our research must commence,
      and we will begin it by presuming that what the lad says is
-     absolutely true.$
+     absolutely true."
 
-     $What of this 'Cooee!' then?$
+     "What of this 'Cooee!' then?"
 
-     $Well, obviously it could not have been meant for the son. The son,
+     "Well, obviously it could not have been meant for the son. The son,
      as far as he knew, was in Bristol. It was mere chance that he was
      within earshot. The 'Cooee!' was meant to attract the attention of
      whoever it was that he had the appointment with. But 'Cooee' is a
      distinctly Australian cry, and one which is used between Australians.
      There is a strong presumption that the person whom McCarthy expected
-     to meet him at Boscombe Pool was someone who had been in Australia.$
+     to meet him at Boscombe Pool was someone who had been in Australia."
 
-     $What of the rat, then?$
+     "What of the rat, then?"
 
      Sherlock Holmes took a folded paper from his pocket and flattened it
-     out on the table. $This is a map of the Colony of Victoria,$ he said.
-     $I wired to Bristol for it last night.$ He put his hand over part of
-     the map. $What do you read?$
+     out on the table. "This is a map of the Colony of Victoria," he said.
+     "I wired to Bristol for it last night." He put his hand over part of
+     the map. "What do you read?"
 
-     $ARAT,$ I read.
+     "ARAT," I read.
 
-     $And now?$ He raised his hand.
+     "And now?" He raised his hand.
 
-     $BALLARAT.$
+     "BALLARAT."
 
-     $Quite so. That was the word the man uttered, and of which his son
+     "Quite so. That was the word the man uttered, and of which his son
      only caught the last two syllables. He was trying to utter the name
-     of his murderer. So and so, of Ballarat.$
+     of his murderer. So and so, of Ballarat."
 
-     $It is wonderful!$ I exclaimed.
+     "It is wonderful!" I exclaimed.
 
-     $It is obvious. And now, you see, I had narrowed the field down
+     "It is obvious. And now, you see, I had narrowed the field down
      considerably. The possession of a grey garment was a third point
      which, granting the son's statement to be correct, was a certainty.
      We have come now out of mere vagueness to the definite conception of
-     an Australian from Ballarat with a grey cloak.$
+     an Australian from Ballarat with a grey cloak."
 
-     $Certainly.$
+     "Certainly."
 
-     $And one who was at home in the district, for the pool can only be
+     "And one who was at home in the district, for the pool can only be
      approached by the farm or by the estate, where strangers could hardly
-     wander.$
+     wander."
 
-     $Quite so.$
+     "Quite so."
 
-     $Then comes our expedition of to-day. By an examination of the ground
+     "Then comes our expedition of to-day. By an examination of the ground
      I gained the trifling details which I gave to that imbecile Lestrade,
-     as to the personality of the criminal.$
+     as to the personality of the criminal."
 
-     $But how did you gain them?$
+     "But how did you gain them?"
 
-     $You know my method. It is founded upon the observation of trifles.$
+     "You know my method. It is founded upon the observation of trifles."
 
-     $His height I know that you might roughly judge from the length of
-     his stride. His boots, too, might be told from their traces.$
+     "His height I know that you might roughly judge from the length of
+     his stride. His boots, too, might be told from their traces."
 
-     $Yes, they were peculiar boots.$
+     "Yes, they were peculiar boots."
 
-     $But his lameness?$
+     "But his lameness?"
 
-     $The impression of his right foot was always less distinct than his
+     "The impression of his right foot was always less distinct than his
      left. He put less weight upon it. Why? Because he limped--he was
-     lame.$
+     lame."
 
-     $But his left-handedness.$
+     "But his left-handedness."
 
-     $You were yourself struck by the nature of the injury as recorded by
+     "You were yourself struck by the nature of the injury as recorded by
      the surgeon at the inquest. The blow was struck from immediately
      behind, and yet was upon the left side. Now, how can that be unless
      it were by a left-handed man? He had stood behind that tree during
@@ -864,23 +864,23 @@
      found the ash of a cigar, which my special knowledge of tobacco ashes
      enables me to pronounce as an Indian cigar. I have, as you know,
      devoted some attention to this, and written a little monograph on the
-     ashes of     different varieties of pipe, cigar, and cigarette
+     ashes of 140 different varieties of pipe, cigar, and cigarette
      tobacco. Having found the ash, I then looked round and discovered the
      stump among the moss where he had tossed it. It was an Indian cigar,
-     of the variety which are rolled in Rotterdam.$
+     of the variety which are rolled in Rotterdam."
 
-     $And the cigar-holder?$
+     "And the cigar-holder?"
 
-     $I could see that the end had not been in his mouth. Therefore he
+     "I could see that the end had not been in his mouth. Therefore he
      used a holder. The tip had been cut off, not bitten off, but the cut
-     was not a clean one, so I deduced a blunt pen-knife.$
+     was not a clean one, so I deduced a blunt pen-knife."
 
-     $Holmes,$ I said, $you have drawn a net round this man from which he
+     "Holmes," I said, "you have drawn a net round this man from which he
      cannot escape, and you have saved an innocent human life as truly as
      if you had cut the cord which was hanging him. I see the direction in
-     which all this points. The culprit is--$
+     which all this points. The culprit is--"
 
-     $Mr. John Turner,$ cried the hotel waiter, opening the door of our
+     "Mr. John Turner," cried the hotel waiter, opening the door of our
      sitting-room, and ushering in a visitor.
 
      The man who entered was a strange and impressive figure. His slow,
@@ -894,61 +894,61 @@
      clear to me at a glance that he was in the grip of some deadly and
      chronic disease.
 
-     $Pray sit down on the sofa,$ said Holmes gently. $You had my note?$
+     "Pray sit down on the sofa," said Holmes gently. "You had my note?"
 
-     $Yes, the lodge-keeper brought it up. You said that you wished to see
-     me here to avoid scandal.$
+     "Yes, the lodge-keeper brought it up. You said that you wished to see
+     me here to avoid scandal."
 
-     $I thought people would talk if I went to the Hall.$
+     "I thought people would talk if I went to the Hall."
 
-     $And why did you wish to see me?$ He looked across at my companion
+     "And why did you wish to see me?" He looked across at my companion
      with despair in his weary eyes, as though his question was already
      answered.
 
-     $Yes,$ said Holmes, answering the look rather than the words. $It is
-     so. I know all about McCarthy.$
+     "Yes," said Holmes, answering the look rather than the words. "It is
+     so. I know all about McCarthy."
 
-     The old man sank his face in his hands. $God help me!$ he cried. $But
+     The old man sank his face in his hands. "God help me!" he cried. "But
      I would not have let the young man come to harm. I give you my word
-     that I would have spoken out if it went against him at the Assizes.$
+     that I would have spoken out if it went against him at the Assizes."
 
-     $I am glad to hear you say so,$ said Holmes gravely.
+     "I am glad to hear you say so," said Holmes gravely.
 
-     $I would have spoken now had it not been for my dear girl. It would
+     "I would have spoken now had it not been for my dear girl. It would
      break her heart--it will break her heart when she hears that I am
-     arrested.$
+     arrested."
 
-     $It may not come to that,$ said Holmes.
+     "It may not come to that," said Holmes.
 
-     $What?$
+     "What?"
 
-     $I am no official agent. I understand that it was your daughter who
+     "I am no official agent. I understand that it was your daughter who
      required my presence here, and I am acting in her interests. Young
-     McCarthy must be got off, however.$
+     McCarthy must be got off, however."
 
-     $I am a dying man,$ said old Turner. $I have had diabetes for years.
+     "I am a dying man," said old Turner. "I have had diabetes for years.
      My doctor says it is a question whether I shall live a month. Yet I
-     would rather die under my own roof than in a jail.$
+     would rather die under my own roof than in a jail."
 
      Holmes rose and sat down at the table with his pen in his hand and a
-     bundle of paper before him. $Just tell us the truth,$ he said. $I
+     bundle of paper before him. "Just tell us the truth," he said. "I
      shall jot down the facts. You will sign it, and Watson here can
      witness it. Then I could produce your confession at the last
      extremity to save young McCarthy. I promise you that I shall not use
-     it unless it is absolutely needed.$
+     it unless it is absolutely needed."
 
-     $It's as well,$ said the old man; $it's a question whether I shall
+     "It's as well," said the old man; "it's a question whether I shall
      live to the Assizes, so it matters little to me, but I should wish to
      spare Alice the shock. And now I will make the thing clear to you; it
      has been a long time in the acting, but will not take me long to
      tell.
 
-     $You didn't know this dead man, McCarthy. He was a devil incarnate. I
+     "You didn't know this dead man, McCarthy. He was a devil incarnate. I
      tell you that. God keep you out of the clutches of such a man as he.
      His grip has been upon me these twenty years, and he has blasted my
      life. I'll tell you first how I came to be in his power.
 
-     $It was in the early '  's at the diggings. I was a young chap then,
+     "It was in the early '60's at the diggings. I was a young chap then,
      hot-blooded and reckless, ready to turn my hand at anything; I got
      among bad companions, took to drink, had no luck with my claim, took
      to the bush, and in a word became what you would call over here a
@@ -958,7 +958,7 @@
      went under, and our party is still remembered in the colony as the
      Ballarat Gang.
 
-     $One day a gold convoy came down from Ballarat to Melbourne, and we
+     "One day a gold convoy came down from Ballarat to Melbourne, and we
      lay in wait for it and attacked it. There were six troopers and six
      of us, so it was a close thing, but we emptied four of their saddles
      at the first volley. Three of our boys were killed, however, before
@@ -977,15 +977,15 @@
      I turned over a new leaf and did my best to make up for the past. All
      was going well when McCarthy laid his grip upon me.
 
-     $I had gone up to town about an investment, and I met him in Regent
+     "I had gone up to town about an investment, and I met him in Regent
      Street with hardly a coat to his back or a boot to his foot.
 
-     $'Here we are, Jack,' says he, touching me on the arm; 'we'll be as
+     "'Here we are, Jack,' says he, touching me on the arm; 'we'll be as
      good as a family to you. There's two of us, me and my son, and you
      can have the keeping of us. If you don't--it's a fine, law-abiding
      country is England, and there's always a policeman within hail.'
 
-     $Well, down they came to the west country, there was no shaking them
+     "Well, down they came to the west country, there was no shaking them
      off, and there they have lived rent free on my best land ever since.
      There was no rest for me, no peace, no forgetfulness; turn where I
      would, there was his cunning, grinning face at my elbow. It grew
@@ -995,7 +995,7 @@
      until at last he asked a thing which I could not give. He asked for
      Alice.
 
-     $His son, you see, had grown up, and so had my girl, and as I was
+     "His son, you see, had grown up, and so had my girl, and as I was
      known to be in weak health, it seemed a fine stroke to him that his
      lad should step into the whole property. But there I was firm. I
      would not have his cursed stock mixed with mine; not that I had any
@@ -1003,7 +1003,7 @@
      stood firm. McCarthy threatened. I braved him to do his worst. We
      were to meet at the pool midway between our houses to talk it over.
 
-     $When I went down there I found him talking with his son, so I smoked
+     "When I went down there I found him talking with his son, so I smoked
      a cigar and waited behind a tree until he should be alone. But as I
      listened to his talk all that was black and bitter in me seemed to
      come uppermost. He was urging his son to marry my daughter with as
@@ -1020,30 +1020,30 @@
      than if he had been some foul and venomous beast. His cry brought
      back his son; but I had gained the cover of the wood, though I was
      forced to go back to fetch the cloak which I had dropped in my
-     flight. That is the true story, gentlemen, of all that occurred.$
+     flight. That is the true story, gentlemen, of all that occurred."
 
-     $Well, it is not for me to judge you,$ said Holmes as the old man
-     signed the statement which had been drawn out. $I pray that we may
-     never be exposed to such a temptation.$
+     "Well, it is not for me to judge you," said Holmes as the old man
+     signed the statement which had been drawn out. "I pray that we may
+     never be exposed to such a temptation."
 
-     $I pray not, sir. And what do you intend to do?$
+     "I pray not, sir. And what do you intend to do?"
 
-     $In view of your health, nothing. You are yourself aware that you
+     "In view of your health, nothing. You are yourself aware that you
      will soon have to answer for your deed at a higher court than the
      Assizes. I will keep your confession, and if McCarthy is condemned I
      shall be forced to use it. If not, it shall never be seen by mortal
      eye; and your secret, whether you be alive or dead, shall be safe
-     with us.$
+     with us."
 
-     $Farewell, then,$ said the old man solemnly. $Your own deathbeds,
+     "Farewell, then," said the old man solemnly. "Your own deathbeds,
      when they come, will be the easier for the thought of the peace which
-     you have given to mine.$ Tottering and shaking in all his giant
+     you have given to mine." Tottering and shaking in all his giant
      frame, he stumbled slowly from the room.
 
-     $God help us!$ said Holmes after a long silence. $Why does fate play
+     "God help us!" said Holmes after a long silence. "Why does fate play
      such tricks with poor, helpless worms? I never hear of such a case as
      this that I do not think of Baxter's words, and say, 'There, but for
-     the grace of God, goes Sherlock Holmes.'$
+     the grace of God, goes Sherlock Holmes.'"
 
      James McCarthy was acquitted at the Assizes on the strength of a
      number of objections which had been drawn out by Holmes and submitted
@@ -1061,16 +1061,16 @@
 
 
      ----------
-     This text is provided to you $as-is$ without any warranty. No
+     This text is provided to you "as-is" without any warranty. No
      warranties of any kind, expressed or implied, are made to you as to
      the text or any medium it may be on, including but not limited to
      warranties of merchantablity or fitness for a particular purpose.
 
      This text was formatted from various free ASCII and HTML variants.
-     See http:33sherlock-holm.es for an electronic form of this text and
+     See http://sherlock-holm.es for an electronic form of this text and
      additional information about it.
 
-     This text comes from the collection's version 3. .
+     This text comes from the collection's version 3.1.
 
 
 

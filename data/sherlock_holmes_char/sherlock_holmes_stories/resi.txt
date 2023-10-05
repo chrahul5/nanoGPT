@@ -22,7 +22,7 @@
      dramatic character, but where the share which he has himself taken in
      determining their causes has been less pronounced than I, as his
      biographer, could wish. The small matter which I have chronicled
-     under the heading of $A Study in Scarlet,$ and that other later one
+     under the heading of "A Study in Scarlet," and that other later one
      connected with the loss of the Gloria Scott, may serve as examples of
      this Scylla and Charybdis which are forever threatening the
      historian. It may be that in the business of which I am now about to
@@ -35,7 +35,7 @@
      half-drawn, and Holmes lay curled upon the sofa, reading and
      re-reading a letter which he had received by the morning post. For
      myself, my term of service in India had trained me to stand heat
-     better than cold, and a thermometer of    was no hardship. But the
+     better than cold, and a thermometer of 90 was no hardship. But the
      paper was uninteresting. Parliament had risen. Everybody was out of
      town, and I yearned for the glades of the New Forest or the shingle
      of Southsea. A depleted bank account had caused me to postpone my
@@ -60,9 +60,9 @@
      up from his chair with an exclamation of impatience and a clouded
      brow.
 
-     $A day's work ruined, Watson,$ said he, striding across to the
-     window. $Ha! The stars are out and he wind has fallen. What do you
-     say to a ramble through London?$
+     "A day's work ruined, Watson," said he, striding across to the
+     window. "Ha! The stars are out and he wind has fallen. What do you
+     say to a ramble through London?"
 
      I was weary of our little sitting-room and gladly acquiesced. For
      three hours we strolled about together, watching the ever-changing
@@ -72,9 +72,9 @@
      It was ten o'clock before we reached Baker Street again. A brougham
      was waiting at our door.
 
-     $Hum! A doctor's--general practitioner, I perceive,$ said Holmes.
-     $Not been long in practice, but has had a good deal to do. Come to
-     consult us, I fancy! Lucky we came back!$
+     "Hum! A doctor's--general practitioner, I perceive," said Holmes.
+     "Not been long in practice, but has had a good deal to do. Come to
+     consult us, I fancy! Lucky we came back!"
 
      I was sufficiently conversant with Holmes's methods to be able to
      follow his reasoning, and to see that the nature and state of the
@@ -95,49 +95,49 @@
      sombre--a black frock-coat, dark trousers, and a touch of color about
      his necktie.
 
-     $Good-evening, doctor,$ said Holmes, cheerily. $I am glad to see that
-     you have only been waiting a very few minutes.$
+     "Good-evening, doctor," said Holmes, cheerily. "I am glad to see that
+     you have only been waiting a very few minutes."
 
-     $You spoke to my coachman, then?$
+     "You spoke to my coachman, then?"
 
-     $No, it was the candle on the side-table that told me. Pray resume
-     your seat and let me know how I can serve you.$
+     "No, it was the candle on the side-table that told me. Pray resume
+     your seat and let me know how I can serve you."
 
-     $My name is Doctor Percy Trevelyan,$ said our visitor, $and I live at
-       3 Brook Street.$
+     "My name is Doctor Percy Trevelyan," said our visitor, "and I live at
+     403 Brook Street."
 
-     $Are you not the author of a monograph upon obscure nervous lesions?$
+     "Are you not the author of a monograph upon obscure nervous lesions?"
      I asked.
 
      His pale cheeks flushed with pleasure at hearing that his work was
      known to me.
 
-     $I so seldom hear of the work that I thought it was quite dead,$ said
-     he. $My publishers gave me a most discouraging account of its sale.
-     You are yourself, I presume, a medical man?$
+     "I so seldom hear of the work that I thought it was quite dead," said
+     he. "My publishers gave me a most discouraging account of its sale.
+     You are yourself, I presume, a medical man?"
 
-     $A retired army surgeon.$
+     "A retired army surgeon."
 
-     $My own hobby has always been nervous disease. I should wish to make
+     "My own hobby has always been nervous disease. I should wish to make
      it an absolute specialty, but, of course, a man must take what he can
      get at first. This, however, is beside the question, Mr. Sherlock
      Holmes, and I quite appreciate how valuable your time is. The fact is
      that a very singular train of events has occurred recently at my
      house in Brook Street, and to-night they came to such a head that I
      felt it was quite impossible for me to wait another hour before
-     asking for your advice and assistance.$
+     asking for your advice and assistance."
 
-     Sherlock Holmes sat down and lit his pipe. $You are very welcome to
-     both,$ said he. $Pray let me have a detailed account of what the
-     circumstances are which have disturbed you.$
+     Sherlock Holmes sat down and lit his pipe. "You are very welcome to
+     both," said he. "Pray let me have a detailed account of what the
+     circumstances are which have disturbed you."
 
-     $One or two of them are so trivial,$ said Dr. Trevelyan, $that really
+     "One or two of them are so trivial," said Dr. Trevelyan, "that really
      I am almost ashamed to mention them. But the matter is so
      inexplicable, and the recent turn which it has taken is so elaborate,
      that I shall lay it all before you, and you shall judge what is
      essential and what is not.
 
-     $I am compelled, to begin with, to say something of my own college
+     "I am compelled, to begin with, to say something of my own college
      career. I am a London University man, you know, and I am sure that
      you will not think that I am unduly singing my own praises if I say
      that my student career was considered by my professors to be a very
@@ -150,7 +150,7 @@
      to say that there was a general impression at that time that a
      distinguished career lay before me.
 
-     $But the one great stumbling-block lay in my want of capital. As you
+     "But the one great stumbling-block lay in my want of capital. As you
      will readily understand, a specialist who aims high is compelled to
      start in one of a dozen streets in the Cavendish Square quarter, all
      of which entail enormous rents and furnishing expenses. Besides this
@@ -161,56 +161,56 @@
      Suddenly, however, an unexpected incident opened up quite a new
      prospect to me.
 
-     $This was a visit from a gentleman of the name of Blessington, who
+     "This was a visit from a gentleman of the name of Blessington, who
      was a complete stranger to me. He came up to my room one morning, and
      plunged into business in an instant.
 
-     $'You are the same Percy Trevelyan who has had so distinguished a
+     "'You are the same Percy Trevelyan who has had so distinguished a
      career and won a great prize lately?' said he.
 
-     $I bowed.
+     "I bowed.
 
-     $'Answer me frankly,' he continued, 'for you will find it to your
+     "'Answer me frankly,' he continued, 'for you will find it to your
      interest to do so. You have all the cleverness which makes a
      successful man. Have you the tact?'
 
-     $I could not help smiling at the abruptness of the question.
+     "I could not help smiling at the abruptness of the question.
 
-     $'I trust that I have my share,' I said.
+     "'I trust that I have my share,' I said.
 
-     $'Any bad habits? Not drawn towards drink, eh?'
+     "'Any bad habits? Not drawn towards drink, eh?'
 
-     $'Really, sir!' I cried.
+     "'Really, sir!' I cried.
 
-     $'Quite right! That's all right! But I was bound to ask. With all
+     "'Quite right! That's all right! But I was bound to ask. With all
      these qualities, why are you not in practice?'
 
-     $I shrugged my shoulders.
+     "I shrugged my shoulders.
 
-     $'Come, come!' said he, in his bustling way. 'It's the old story.
+     "'Come, come!' said he, in his bustling way. 'It's the old story.
      More in your brains than in your pocket, eh? What would you say if I
      were to start you in Brook Street?'
 
-     $I stared at him in astonishment.
+     "I stared at him in astonishment.
 
-     $'Oh, it's for my sake, not for yours,' he cried.  'I'll be perfectly
+     "'Oh, it's for my sake, not for yours,' he cried.  'I'll be perfectly
      frank with you, and if it suits you it will suit me very well. I have
      a few thousands to invest, d'ye see, and I think I'll sink them in
      you.'
 
-     $'But why?' I gasped.
+     "'But why?' I gasped.
 
-     $'Well, it's just like any other speculation, and safer than most.'
+     "'Well, it's just like any other speculation, and safer than most.'
 
-     $'What am I to do, then?'
+     "'What am I to do, then?'
 
-     $'I'll tell you. I'll take the house, furnish it, pay the maids, and
+     "'I'll tell you. I'll take the house, furnish it, pay the maids, and
      run the whole place. All you have to do is just to wear out your
      chair in the consulting-room. I'll let you have pocket-money and
      everything. Then you hand over to me three quarters of what you earn,
      and you keep the other quarter for yourself.'
 
-     $This was the strange proposal, Mr. Holmes, with which the man
+     "This was the strange proposal, Mr. Holmes, with which the man
      Blessington approached me. I won't weary you with the account of how
      we bargained and negotiated. It ended in my moving into the house
      next Lady Day, and starting in practice on very much the same
@@ -225,16 +225,16 @@
      three-pence for every guinea that I had earned, and carried the rest
      off to the strong-box in his own room.
 
-     $I may say with confidence that he never had occasion to regret his
+     "I may say with confidence that he never had occasion to regret his
      speculation. From the first it was a success. A few good cases and
      the reputation which I had won in the hospital brought me rapidly to
      the front, and during the last few years I have made him a rich man.
 
-     $So much, Mr. Holmes, for my past history and my relations with Mr.
+     "So much, Mr. Holmes, for my past history and my relations with Mr.
      Blessington. It only remains for me now to tell you what has occurred
      to bring me here to-night.
 
-     $Some weeks ago Mr. Blessington came down to me in, as it seemed to
+     "Some weeks ago Mr. Blessington came down to me in, as it seemed to
      me, a state of considerable agitation. He spoke of some burglary
      which, he said, had been committed in the West End, and he appeared,
      I remember, to be quite unnecessarily excited about it, declaring
@@ -249,17 +249,17 @@
      renewed his former habits, when a fresh event reduced him to the
      pitiable state of prostration in which he now lies.
 
-     $What happened was this. Two days ago I received the letter which I
+     "What happened was this. Two days ago I received the letter which I
      now read to you. Neither address nor date is attached to it.
 
-     $'A Russian nobleman who is now resident in England,' it runs, 'would
+     "'A Russian nobleman who is now resident in England,' it runs, 'would
      be glad to avail himself of the professional assistance of Dr. Percy
      Trevelyan. He has been for some years a victim to cataleptic attacks,
      on which, as is well known, Dr. Trevelyan is an authority. He
      proposes to call at about quarter past six to-morrow evening, if Dr.
      Trevelyan will make it convenient to be at home.'
 
-     $This letter interested me deeply, because the chief difficulty in
+     "This letter interested me deeply, because the chief difficulty in
      the study of catalepsy is the rareness of the disease. You may
      believe, than, that I was in my consulting-room when, at the
      appointed hour, the page showed in the patient.
@@ -272,21 +272,21 @@
      entered, and helped him to a chair with a tenderness which one would
      hardly have expected from his appearance.
 
-     $'You will excuse my coming in, doctor,' said he to me, speaking
+     "'You will excuse my coming in, doctor,' said he to me, speaking
      English with a slight lisp. 'This is my father, and his health is a
      matter of the most overwhelming importance to me.'
 
-     $I was touched by this filial anxiety. 'You would, perhaps, care to
+     "I was touched by this filial anxiety. 'You would, perhaps, care to
      remain during the consultation?' said I.
 
-     $'Not for the world,' he cried with a gesture of horror. 'It is more
+     "'Not for the world,' he cried with a gesture of horror. 'It is more
      painful to me than I can express. If I were to see my father in one
      of these dreadful seizures I am convinced that I should never survive
      it. My own nervous system is an exceptionally sensitive one. With
      your permission, I will remain in the waiting-room while you go into
      my father's case.'
 
-     $To this, of course, I assented, and the young man withdrew. The
+     "To this, of course, I assented, and the young man withdrew. The
      patient and I then plunged into a discussion of his case, of which I
      took exhaustive notes. He was not remarkable for intelligence, and
      his answers were frequently obscure, which I attributed to his
@@ -296,7 +296,7 @@
      upright in his chair, staring at me with a perfectly blank and rigid
      face. He was again in the grip of his mysterious malady.
 
-     $My first feeling, as I have just said, was one of pity and horror.
+     "My first feeling, as I have just said, was one of pity and horror.
      My second, I fear, was rather one of professional satisfaction. I
      made notes of my patient's pulse and temperature, tested the rigidity
      of his muscles, and examined his reflexes. There was nothing markedly
@@ -309,7 +309,7 @@
      us say--and then I returned. Imagine my amazement to find the room
      empty and the patient gone.
 
-     $Of course, my first act was to run into the waiting-room. The son
+     "Of course, my first act was to run into the waiting-room. The son
      had gone also. The hall door had been closed, but not shut. My page
      who admits patients is a new boy and by no means quick. He waits
      downstairs, and runs up to show patients out when I ring the
@@ -319,53 +319,53 @@
      to tell the truth, I have got in the way of late of holding as little
      communication with him as possible.
 
-     $Well, I never thought that I should see anything more of the Russian
+     "Well, I never thought that I should see anything more of the Russian
      and his son, so you can imagine my amazement when, at the very same
      hour this evening, they both came marching into my consulting-room,
      just as they had done before.
 
-     $'I feel that I owe you a great many apologies for my abrupt
+     "'I feel that I owe you a great many apologies for my abrupt
      departure yesterday, doctor,' said my patient.
 
-     $'I confess that I was very much surprised at it,' said I.
+     "'I confess that I was very much surprised at it,' said I.
 
-     $'Well, the fact is,' he remarked, 'that when I recover from these
+     "'Well, the fact is,' he remarked, 'that when I recover from these
      attacks my mind is always very clouded as to all that has gone
      before. I woke up in a strange room, as it seemed to me, and made my
      way out into the street in a sort of dazed way when you were absent.'
 
-     $'And I,' said the son, 'seeing my father pass the door of the
+     "'And I,' said the son, 'seeing my father pass the door of the
      waiting-room, naturally thought that the consultation had come to an
      end. It was not until we had reached home that I began to realize the
      true state of affairs.'
 
-     $'Well,' said I, laughing, 'there is no harm done except that you
+     "'Well,' said I, laughing, 'there is no harm done except that you
      puzzled me terribly; so if you, sir, would kindly step into the
      waiting-room I shall be happy to continue our consultation which was
      brought to so abrupt an ending.'
 
-     $For half an hour or so I discussed that old gentleman's symptoms
+     "For half an hour or so I discussed that old gentleman's symptoms
      with him, and then, having prescribed for him, I saw him go off upon
      the arm of his son.
 
-     $I have told you that Mr. Blessington generally chose this hour of
+     "I have told you that Mr. Blessington generally chose this hour of
      the day for his exercise. He came in shortly afterwards and passed
      upstairs. An instant later I heard him running down, and he burst
      into my consulting-room like a man who is mad with panic.
 
-     $'Who has been in my room?' he cried.
+     "'Who has been in my room?' he cried.
 
-     $'No one,' said I.
+     "'No one,' said I.
 
-     $'It's a lie!' He yelled. 'Come up and look!'
+     "'It's a lie!' He yelled. 'Come up and look!'
 
-     $I passed over the grossness of his language, as he seemed half out
+     "I passed over the grossness of his language, as he seemed half out
      of his mind with fear. When I went upstairs with him he pointed to
      several footprints upon the light carpet.
 
-     $'D'you mean to say those are mine?' he cried.
+     "'D'you mean to say those are mine?' he cried.
 
-     $They were certainly very much larger than any which he could have
+     "They were certainly very much larger than any which he could have
      made, and were evidently quite fresh. It rained hard this afternoon,
      as you know, and my patients were the only people who called. It must
      have been the case, then, that the man in the waiting-room had, for
@@ -374,7 +374,7 @@
      there were the footprints to prove that the intrusion was an
      undoubted fact.
 
-     $Mr. Blessington seemed more excited over the matter than I should
+     "Mr. Blessington seemed more excited over the matter than I should
      have thought possible, though of course it was enough to disturb
      anybody's peace of mind. He actually sat crying in an arm-chair, and
      I could hardly get him to speak coherently. It was his suggestion
@@ -383,7 +383,7 @@
      though he appears to completely overrate its importance. If you would
      only come back with me in my brougham, you would at least be able to
      soothe him, though I can hardly hope that you will be able to explain
-     this remarkable occurrence.$
+     this remarkable occurrence."
 
      Sherlock Holmes had listened to this long narrative with an
      intentness which showed me that his interest was keenly aroused. His
@@ -402,19 +402,19 @@
      the top was suddenly whisked out, and from the darkness came a reedy,
      quivering voice.
 
-     $I have a pistol,$ it cried. $I give you my word that I'll fire if
-     you come any nearer.$
+     "I have a pistol," it cried. "I give you my word that I'll fire if
+     you come any nearer."
 
-     $This really grows outrageous, Mr. Blessington,$ cried Dr. Trevelyan.
+     "This really grows outrageous, Mr. Blessington," cried Dr. Trevelyan.
 
-     $Oh, then it is you, doctor,$ said the voice, with a great heave of
-     relief. $But those other gentlemen, are they what they pretend to
-     be?$
+     "Oh, then it is you, doctor," said the voice, with a great heave of
+     relief. "But those other gentlemen, are they what they pretend to
+     be?"
 
      We were conscious of a long scrutiny out of the darkness.
 
-     $Yes, yes, it's all right,$ said the voice at last. $You can come up,
-     and I am sorry if my precautions have annoyed you.$
+     "Yes, yes, it's all right," said the voice at last. "You can come up,
+     and I am sorry if my precautions have annoyed you."
 
      He relit the stair gas as he spoke, and we saw before us a
      singular-looking man, whose appearance, as well as his voice,
@@ -425,73 +425,73 @@
      intensity of his emotion. In his hand he held a pistol, but he thrust
      it into his pocket as we advanced.
 
-     $Good-evening, Mr. Holmes,$ said he. $I am sure I am very much
+     "Good-evening, Mr. Holmes," said he. "I am sure I am very much
      obliged to you for coming round. No one ever needed your advice more
      than I do. I suppose that Dr. Trevelyan has told you of this most
-     unwarrantable intrusion into my rooms.$
+     unwarrantable intrusion into my rooms."
 
-     $Quite so,$ said Holmes. $Who are these two men Mr. Blessington, and
-     why do they wish to molest you?$
+     "Quite so," said Holmes. "Who are these two men Mr. Blessington, and
+     why do they wish to molest you?"
 
-     $Well, well,$ said the resident patient, in a nervous fashion, $of
+     "Well, well," said the resident patient, in a nervous fashion, "of
      course it is hard to say that. You can hardly expect me to answer
-     that, Mr. Holmes.$
+     that, Mr. Holmes."
 
-     $Do you mean that you don't know?$
+     "Do you mean that you don't know?"
 
-     $Come in here, if you please. Just have the kindness to step in
-     here.$
+     "Come in here, if you please. Just have the kindness to step in
+     here."
 
      He led the way into his bedroom, which was large and comfortably
      furnished.
 
-     $You see that,$ said he, pointing to a big black box at the end of
-     his bed. $I have never been a very rich man, Mr. Holmes--never made
+     "You see that," said he, pointing to a big black box at the end of
+     his bed. "I have never been a very rich man, Mr. Holmes--never made
      but one investment in my life, as Dr. Trevelyan would tell you. But I
      don't believe in bankers. I would never trust a banker, Mr. Holmes.
      Between ourselves, what little I have is in that box, so you can
      understand what it means to me when unknown people force themselves
-     into my rooms.$
+     into my rooms."
 
      Holmes looked at Blessington in his questioning way and shook his
      head.
 
-     $I cannot possibly advise you if you try to deceive me,$ said he.
+     "I cannot possibly advise you if you try to deceive me," said he.
 
-     $But I have told you everything.$
+     "But I have told you everything."
 
-     Holmes turned on his heel with a gesture of disgust. $Good-night, Dr.
-     Trevelyan,$ said he.
+     Holmes turned on his heel with a gesture of disgust. "Good-night, Dr.
+     Trevelyan," said he.
 
-     $And no advice for me?$ cried Blessington, in a breaking voice.
+     "And no advice for me?" cried Blessington, in a breaking voice.
 
-     $My advice to your, sir, is to speak the truth.$
+     "My advice to your, sir, is to speak the truth."
 
      A minute later we were in the street and walking for home. We had
      crossed Oxford Street and were half way down Harley Street before I
      could get a word from my companion.
 
-     $Sorry to bring you out on such a fool's errand, Watson,$ he said at
-     last. $It is an interesting case, too, at the bottom of it.$
+     "Sorry to bring you out on such a fool's errand, Watson," he said at
+     last. "It is an interesting case, too, at the bottom of it."
 
-     $I can make little of it,$ I confessed.
+     "I can make little of it," I confessed.
 
-     $Well, it is quite evident that there are two men--more, perhaps, but
+     "Well, it is quite evident that there are two men--more, perhaps, but
      at least two--who are determined for some reason to get at this
      fellow Blessington. I have no doubt in my mind that both on the first
      and on the second occasion that young man penetrated to Blessington's
      room, while his confederate, by an ingenious device, kept the doctor
-     from interfering.$
+     from interfering."
 
-     $And the catalepsy?$
+     "And the catalepsy?"
 
-     $A fraudulent imitation, Watson, though I should hardly dare to hint
+     "A fraudulent imitation, Watson, though I should hardly dare to hint
      as much to our specialist. It is a very easy complaint to imitate. I
-     have done it myself.$
+     have done it myself."
 
-     $And then?$
+     "And then?"
 
-     $By the purest chance Blessington was out on each occasion. Their
+     "By the purest chance Blessington was out on each occasion. Their
      reason for choosing so unusual an hour for a consultation was
      obviously to insure that there should be no other patient in the
      waiting-room. It just happened, however, that this hour coincided
@@ -504,17 +504,17 @@
      appear to be without knowing of it. I hold it, therefore, to be
      certain that he does know who these men are, and that for reasons of
      his own he suppresses it. It is just possible that to-morrow may find
-     him in a more communicative mood.$
+     him in a more communicative mood."
 
-     $Is there not one alternative,$ I suggested, $grotesquely improbably,
+     "Is there not one alternative," I suggested, "grotesquely improbably,
      no doubt, but still just conceivable? Might the whole story of the
      cataleptic Russian and his son be a concoction of Dr. Trevelyan's,
-     who has, for his own purposes, been in Blessington's rooms?$
+     who has, for his own purposes, been in Blessington's rooms?"
 
      I saw in the gaslight that Holmes wore an amused smile at this
      brilliant departure of mine.
 
-     $My dear fellow,$ said he, $it was one of the first solutions which
+     "My dear fellow," said he, "it was one of the first solutions which
      occurred to me, but I was soon able to corroborate the doctor's tale.
      This young man has left prints upon the stair-carpet which made it
      quite superfluous for me to ask to see those which he had made in the
@@ -523,57 +523,57 @@
      longer than the doctor's, you will acknowledge that there can be no
      doubt as to his individuality. But we may sleep on it now, for I
      shall be surprised if we do not hear something further from Brook
-     Street in the morning.$
+     Street in the morning."
 
      Sherlock Holmes's prophecy was soon fulfilled, and in a dramatic
      fashion. At half-past seven next morning, in the first glimmer of
      daylight, I found him standing by my bedside in his dressing-gown.
 
-     $There's a brougham waiting for us, Watson,$ said he.
+     "There's a brougham waiting for us, Watson," said he.
 
-     $What's the matter, then?$
+     "What's the matter, then?"
 
-     $The Brook Street business.$
+     "The Brook Street business."
 
-     $Any fresh news?$
+     "Any fresh news?"
 
-     $Tragic, but ambiguous,$ said he, pulling up the blind.  $Look at
+     "Tragic, but ambiguous," said he, pulling up the blind.  "Look at
      this--a sheet from a note-book, with 'For God's sake come at once--P.
      T.,' scrawled upon it in pencil. Our friend, the doctor, was hard put
      to it when he wrote this. Come along, my dear fellow, for it's an
-     urgent call.$
+     urgent call."
 
      In a quarter of an hour or so we were back at the physician's house. 
      He came running out to meet us with a face of horror.
 
-     $Oh, such a business!$ he cried, with his hands to his temples.
+     "Oh, such a business!" he cried, with his hands to his temples.
 
-     $What then?$
+     "What then?"
 
-     $Blessington has committed suicide!$
+     "Blessington has committed suicide!"
 
      Holmes whistled.
 
-     $Yes, he hanged himself during the night.$
+     "Yes, he hanged himself during the night."
 
      We had entered, and the doctor had preceded us into what was
      evidently his waiting-room.
 
-     $I really hardly know what I am doing,$ he cried. $The police are
-     already upstairs. It has shaken me most dreadfully.$
+     "I really hardly know what I am doing," he cried. "The police are
+     already upstairs. It has shaken me most dreadfully."
 
-     $When did you find it out?$
+     "When did you find it out?"
 
-     $He has a cup of tea taken in to him early every morning. When the
+     "He has a cup of tea taken in to him early every morning. When the
      maid entered, about seven, there the unfortunate fellow was hanging
      in the middle of the room. He had tied his cord to the hook on which
      the heavy lamp used to hang, and he had jumped off from the top of
-     the very box that he showed us yesterday.$
+     the very box that he showed us yesterday."
 
      Holmes stood for a moment in deep thought.
 
-     $With your permission,$ said he at last, $I should like to go
-     upstairs and look into the matter.$
+     "With your permission," said he at last, "I should like to go
+     upstairs and look into the matter."
 
      We both ascended, followed by the doctor.
 
@@ -587,74 +587,74 @@
      starkly from beneath it. Beside him stood a smart-looking
      police-inspector, who was taking notes in a pocket-book.
 
-     $Ah, Mr. Holmes,$ said he, heartily, as my friend entered, $I am
-     delighted to see you.$
+     "Ah, Mr. Holmes," said he, heartily, as my friend entered, "I am
+     delighted to see you."
 
-     $Good-morning, Lanner,$ answered Holmes; $you won't think me an
+     "Good-morning, Lanner," answered Holmes; "you won't think me an
      intruder, I am sure. Have you heard of the events which led up to
-     this affair?$
+     this affair?"
 
-     $Yes, I heard something of them.$
+     "Yes, I heard something of them."
 
-     $Have you formed any opinion?$
+     "Have you formed any opinion?"
 
-     $As far as I can see, the man has been driven out of his senses by
+     "As far as I can see, the man has been driven out of his senses by
      fright. The bed has been well slept in, you see. There's his
      impression deep enough. It's about five in the morning, you know,
      that suicides are most common. That would be about his time for
-     hanging himself. It seems to have been a very deliberate affair.$
+     hanging himself. It seems to have been a very deliberate affair."
 
-     $I should say that he has been dead about three hours, judging by the
-     rigidity of the muscles,$ said I.
+     "I should say that he has been dead about three hours, judging by the
+     rigidity of the muscles," said I.
 
-     $Noticed anything peculiar about the room?$ asked Holmes.
+     "Noticed anything peculiar about the room?" asked Holmes.
 
-     $Found a screw-driver and some screws on the wash-hand stand. Seems
+     "Found a screw-driver and some screws on the wash-hand stand. Seems
      to have smoked heavily during the night, too. Here are four
-     cigar-ends that I picked out of the fireplace.$
+     cigar-ends that I picked out of the fireplace."
 
-     $Hum!$ said Holmes, $have you got his cigar-holder?$
+     "Hum!" said Holmes, "have you got his cigar-holder?"
 
-     $No, I have seen none.$
+     "No, I have seen none."
 
-     $His cigar-case, then?$
+     "His cigar-case, then?"
 
-     $Yes, it was in his coat-pocket.$
+     "Yes, it was in his coat-pocket."
 
      Holmes opened it and smelled the single cigar which it contained.
 
-     $Oh, this is an Havana, and these others are cigars of the peculiar
+     "Oh, this is an Havana, and these others are cigars of the peculiar
      sort which are imported by the Dutch from their East Indian colonies.
      They are usually wrapped in straw, you know, and are thinner for
-     their length than any other brand.$ He picked up the four ends and
+     their length than any other brand." He picked up the four ends and
      examined them with his pocket-lens.
 
-     $Two of these have been smoked from a holder and two without,$ said
-     he. $Two have been cut by a not very sharp knife, and two have had
+     "Two of these have been smoked from a holder and two without," said
+     he. "Two have been cut by a not very sharp knife, and two have had
      the ends bitten off by a set of excellent teeth. This is no suicide,
-     Mr. Lanner. It is a very deeply planned and cold-blooded murder.$
+     Mr. Lanner. It is a very deeply planned and cold-blooded murder."
 
-     $Impossible!$ cried the inspector.
+     "Impossible!" cried the inspector.
 
-     $And why?$
+     "And why?"
 
-     $Why should any one murder a man in so clumsy a fashion as by hanging
-     him?$
+     "Why should any one murder a man in so clumsy a fashion as by hanging
+     him?"
 
-     $That is what we have to find out.$
+     "That is what we have to find out."
 
-     $How could they get in?$
+     "How could they get in?"
 
-     $Through the front door.$
+     "Through the front door."
 
-     $It was barred in the morning.$
+     "It was barred in the morning."
 
-     $Then it was barred after them.$
+     "Then it was barred after them."
 
-     $How do you know?$
+     "How do you know?"
 
-     $I saw their traces. Excuse me a moment, and I may be able to give
-     you some further information about it.$
+     "I saw their traces. Excuse me a moment, and I may be able to give
+     you some further information about it."
 
      He went over to the door, and turning the lock he examined it in his
      methodical way. Then he took out the key, which was on the inside,
@@ -664,56 +664,56 @@
      that of the inspector cut down the wretched object and laid it
      reverently under a sheet.
 
-     $How about this rope?$ he asked.
+     "How about this rope?" he asked.
 
-     $It is cut off this,$ said Dr. Trevelyan, drawing a large coil from
-     under the bed. $He was morbidly nervous of fire, and always kept this
+     "It is cut off this," said Dr. Trevelyan, drawing a large coil from
+     under the bed. "He was morbidly nervous of fire, and always kept this
      beside him, so that he might escape by the window in case the stairs
-     were burning.$
+     were burning."
 
-     $That must have saved them trouble,$ said Holmes, thoughtfully. $Yes,
+     "That must have saved them trouble," said Holmes, thoughtfully. "Yes,
      the actual facts are very plain, and I shall be surprised if by the
      afternoon I cannot give you the reasons for them as well. I will take
      this photograph of Blessington, which I see upon the mantelpiece, as
-     it may help me in my inquiries.$
+     it may help me in my inquiries."
 
-     $But you have told us nothing!$ cried the doctor.
+     "But you have told us nothing!" cried the doctor.
 
-     $Oh, there can be no doubt as to the sequence of events,$ said
-     Holmes. $There were three of them in it: the young man, the old man,
+     "Oh, there can be no doubt as to the sequence of events," said
+     Holmes. "There were three of them in it: the young man, the old man,
      and a third, to whose identity I have no clue. The first two, I need
      hardly remark, are the same who masqueraded as the Russian count and
      his son, so we can give a very full description of them. They were
      admitted by a confederate inside the house. If I might offer you a
      word of advice, Inspector, it would be to arrest the page, who, as I
-     understand, has only recently come into your service, Doctor.$
+     understand, has only recently come into your service, Doctor."
 
-     $The young imp cannot be found,$ said Dr. Trevelyan; $the maid and
-     the cook have just been searching for him.$
+     "The young imp cannot be found," said Dr. Trevelyan; "the maid and
+     the cook have just been searching for him."
 
      Holmes shrugged his shoulders.
 
-     $He has played a not unimportant part in this drama,$ said he. $The
+     "He has played a not unimportant part in this drama," said he. "The
      three men having ascended the stairs, which they did on tiptoe, the
      elder man first, the younger man second, and the unknown man in the
-     rear--$
+     rear--"
 
-     $My dear Holmes!$ I ejaculated.
+     "My dear Holmes!" I ejaculated.
 
-     $Oh, there could be no question as to the superimposing of the
+     "Oh, there could be no question as to the superimposing of the
      footmarks. I had the advantage of learning which was which last
      night. They ascended, then, to Mr. Blessington's room, the door of
      which they found to be locked. With the help of a wire, however, they
      forced round the key. Even without the lens you will perceive, by the
      scratches on this ward, where the pressure was applied.
 
-     $On entering the room their first proceeding must have been to gag
+     "On entering the room their first proceeding must have been to gag
      Mr. Blessington. He may have been asleep, or he may have been so
      paralyzed with terror as to have been unable to cry out. These walls
      are thick, and it is conceivable that his shriek, if he had time to
      utter one, was unheard.
 
-     $Having secured him, it is evident to me that a consultation of some
+     "Having secured him, it is evident to me that a consultation of some
      sort was held. Probably it was something in the nature of a judicial
      proceeding. It must have lasted for some time, for it was then that
      these cigars were smoked. The older man sat in that wicker chair; it
@@ -722,13 +722,13 @@
      paced up and down. Blessington, I think, sat upright in the bed, but
      of that I cannot be absolutely certain.
 
-     $Well, it ended by their taking Blessington and hanging him. The
+     "Well, it ended by their taking Blessington and hanging him. The
      matter was so prearranged that it is my belief that they brought with
      them some sort of block or pulley which might serve as a gallows.
      That screw-driver and those screws were, as I conceive, for fixing it
      up. Seeing the hook, however they naturally saved themselves the
      trouble. Having finished their work they made off, and the door was
-     barred behind them by their confederate.$
+     barred behind them by their confederate."
 
      We had all listened with the deepest interest to this sketch of the
      night's doings, which Holmes had deduced from signs so subtle and
@@ -737,43 +737,43 @@
      the instant to make inquiries about the page, while Holmes and I
      returned to Baker Street for breakfast.
 
-     $I'll be back by three,$ said he, when we had finished our meal.
-     $Both the inspector and the doctor will meet me here at that hour,
+     "I'll be back by three," said he, when we had finished our meal.
+     "Both the inspector and the doctor will meet me here at that hour,
      and I hope by that time to have cleared up any little obscurity which
-     the case may still present.$
+     the case may still present."
 
      Our visitors arrived at the appointed time, but it was a quarter to
      four before my friend put in an appearance. From his expression as he
      entered, however, I could see that all had gone well with him.
 
-     $Any news, Inspector?$
+     "Any news, Inspector?"
 
-     $We have got the boy, sir.$
+     "We have got the boy, sir."
 
-     $Excellent, and I have got the men.$
+     "Excellent, and I have got the men."
 
-     $You have got them!$ we cried, all three.
+     "You have got them!" we cried, all three.
 
-     $Well, at least I have got their identity. This so-called Blessington
+     "Well, at least I have got their identity. This so-called Blessington
      is, as I expected, well known at headquarters, and so are his
-     assailants. Their names are Biddle, Hayward, and Moffat.$
+     assailants. Their names are Biddle, Hayward, and Moffat."
 
-     $The Worthingdon bank gang,$ cried the inspector.
+     "The Worthingdon bank gang," cried the inspector.
 
-     $Precisely,$ said Holmes.
+     "Precisely," said Holmes.
 
-     $Then Blessington must have been Sutton.$
+     "Then Blessington must have been Sutton."
 
-     $Exactly,$ said Holmes.
+     "Exactly," said Holmes.
 
-     $Why, that makes it as clear as crystal,$ said the inspector.
+     "Why, that makes it as clear as crystal," said the inspector.
 
      But Trevelyan and I looked at each other in bewilderment.
 
-     $You must surely remember the great Worthingdon bank business,$ said
-     Holmes. $Five men were in it--these four and a fifth called
+     "You must surely remember the great Worthingdon bank business," said
+     Holmes. "Five men were in it--these four and a fifth called
      Cartwright. Tobin, the care-taker, was murdered, and the thieves got
-     away with seven thousand pounds. This was in     . They were all five
+     away with seven thousand pounds. This was in 1875. They were all five
      arrested, but the evidence against them was by no means conclusive.
      This Blessington or Sutton, who was the worst of the gang, turned
      informer. On his evidence Cartwright was hanged and the other three
@@ -782,23 +782,23 @@
      perceive, to hunt down the traitor and to avenge the death of their
      comrade upon him. Twice they tried to get at him and failed; a third
      time, you see, it came off. Is there anything further which I can
-     explain, Dr. Trevelyan?$
+     explain, Dr. Trevelyan?"
 
-     $I think you have made it all remarkable clear,$ said the doctor. $No
+     "I think you have made it all remarkable clear," said the doctor. "No
      doubt the day on which he was perturbed was the day when he had seen
-     of their release in the newspapers.$
+     of their release in the newspapers."
 
-     $Quite so. His talk about a burglary was the merest blind.$
+     "Quite so. His talk about a burglary was the merest blind."
 
-     $But why could he not tell you this?$
+     "But why could he not tell you this?"
 
-     $Well, my dear sir, knowing the vindictive character of his old
+     "Well, my dear sir, knowing the vindictive character of his old
      associates, he was trying to hide his own identity from everybody as
      long as he could. His secret was a shameful one, and he could not
      bring himself to divulge it. However, wretch as he was, he was still
      living under the shield of British law, and I have no doubt,
      Inspector, that you will see that, though that shield may fail to
-     guard, the sword of justice is still there to avenge.$
+     guard, the sword of justice is still there to avenge."
 
      Such were the singular circumstances in connection with the Resident
      Patient and the Brook Street Doctor. From that night nothing has been
@@ -819,16 +819,16 @@
 
 
      ----------
-     This text is provided to you $as-is$ without any warranty. No
+     This text is provided to you "as-is" without any warranty. No
      warranties of any kind, expressed or implied, are made to you as to
      the text or any medium it may be on, including but not limited to
      warranties of merchantablity or fitness for a particular purpose.
 
      This text was formatted from various free ASCII and HTML variants.
-     See http:33sherlock-holm.es for an electronic form of this text and
+     See http://sherlock-holm.es for an electronic form of this text and
      additional information about it.
 
-     This text comes from the collection's version 3. .
+     This text comes from the collection's version 3.1.
 
 
 

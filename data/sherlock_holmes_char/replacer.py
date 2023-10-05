@@ -2,7 +2,7 @@ def replace_characters(input_text):
     # Define the character mapping
     char_mapping = {
         '!': '!',
-        '"': '$',
+        '"': '"',
         '&': '&',
         "'": "'",
         '(': ' ',
